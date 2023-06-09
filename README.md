@@ -19,7 +19,7 @@ To explore the projects and code snippets in this repository, follow these steps
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/web-development-repo.git
+   git clone https://github.com/javed-basha/web-development-repo.git
    ```
 
 2. Navigate to the desired project or code snippet folder.
