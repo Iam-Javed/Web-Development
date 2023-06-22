@@ -1,0 +1,19 @@
+/* Select an HTML element with the class "my-element" */
+.my-element {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Select all <p> elements */
+p {
+  background-color: yellow;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+/* Select an HTML element with the ID "my-heading" */
+#my-heading {
+  font-size: 24px;
+  font-weight: bold;
+}
